@@ -1,0 +1,15 @@
+C:\Users\Paras\source\repos\Selenium Projects\EATestLibrary\EATestLibrary\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Users\Paras\source\repos\Selenium Projects\EATestLibrary\EATestLibrary\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Users\Paras\source\repos\Selenium Projects\EATestLibrary\EATestLibrary\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Paras\source\repos\Selenium Projects\EATestLibrary\EATestLibrary\bin\Debug\net7.0\EATestLibrary.deps.json
+C:\Users\Paras\source\repos\Selenium Projects\EATestLibrary\EATestLibrary\bin\Debug\net7.0\EATestLibrary.dll
+C:\Users\Paras\source\repos\Selenium Projects\EATestLibrary\EATestLibrary\bin\Debug\net7.0\EATestLibrary.pdb
+C:\Users\Paras\source\repos\Selenium Projects\EATestLibrary\EATestLibrary\obj\Debug\net7.0\EATestLibrary.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\Selenium Projects\EATestLibrary\EATestLibrary\obj\Debug\net7.0\EATestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\Selenium Projects\EATestLibrary\EATestLibrary\obj\Debug\net7.0\EATestLibrary.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\Selenium Projects\EATestLibrary\EATestLibrary\obj\Debug\net7.0\EATestLibrary.AssemblyInfo.cs
+C:\Users\Paras\source\repos\Selenium Projects\EATestLibrary\EATestLibrary\obj\Debug\net7.0\EATestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\Selenium Projects\EATestLibrary\EATestLibrary\obj\Debug\net7.0\EATestLibrary.dll
+C:\Users\Paras\source\repos\Selenium Projects\EATestLibrary\EATestLibrary\obj\Debug\net7.0\refint\EATestLibrary.dll
+C:\Users\Paras\source\repos\Selenium Projects\EATestLibrary\EATestLibrary\obj\Debug\net7.0\EATestLibrary.pdb
+C:\Users\Paras\source\repos\Selenium Projects\EATestLibrary\EATestLibrary\obj\Debug\net7.0\ref\EATestLibrary.dll
